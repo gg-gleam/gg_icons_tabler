@@ -1,0 +1,13 @@
+{
+  "set": "tabler",
+  "variants": ["outline", "filled"],
+  "defaultVariant": "outline",
+  "icons": {
+    "outline": {
+      "chevron_down": "c"
+    },
+    "filled": {
+      "star": "s"
+    }
+  }
+}
